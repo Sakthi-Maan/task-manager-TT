@@ -1,0 +1,25 @@
+task date addition
+Task all pages azure AD enable
+Task default sort using time, change title to date, show only date
+Task add task focus to first text box
+Task Complete double press avoid. Also for all buttons
+Task table adjust full screen and add in on resolution change instead of on-load
+Task Table - Save state
+
+
+task date addition -- add data field in database for help sort data or something  -1 
+
+
+Task all pages azure AD enable -  this have one page for now ,we need implement to all page - last -7 
+
+
+Task default sort using time, change title to date, show only date - 2
+
+
+Task add task focus to first text box - if pop is one automate focus the text in pop - 4
+
+Task Complete double press avoid. Also for all buttons - double press avoid for all button in page and edit and delete etc. - 5
+
+Task table adjust full screen and add in on resolution change instead of on-load  - 3  
+
+Task Table - Save state - 6
